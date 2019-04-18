@@ -16,7 +16,8 @@ namespace test
         {
 
             CreateWebHostBuilder(args).Build().Run();
-            var i = 1;
+      
+
         }
 
 
