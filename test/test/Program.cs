@@ -16,6 +16,7 @@ namespace test
         {
 
             CreateWebHostBuilder(args).Build().Run();
+            var i = 1;
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
